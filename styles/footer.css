@@ -1,0 +1,35 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 107px;
+    padding-bottom: 107px;    
+    margin-top: 150px;
+
+}
+.links {
+    display: flex;
+    flex-direction: column;
+    margin-right: 75px;
+    
+}
+.footer_links {
+    display: flex;
+    
+}
+.link__title {
+    font-size: 20px;
+    font-family: RobotoM, sans-serif;
+    color: white;
+    margin-bottom: 40px;
+    margin-top: 0;
+
+}
+.links a {
+    text-decoration: none;
+    font-family: RobotoM, sans-serif;
+    color: white;
+    margin-bottom: 19px;
+}
+.links a:hover {
+    color:gray;
+}
